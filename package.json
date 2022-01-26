@@ -12,6 +12,6 @@
   "author": "Elías Rodelo",
   "license": "ISC",
   "peerDependencies": {
-    "react-native": "^0.63.8"
+    "react-native": "^0.63.4"
   }
 }
